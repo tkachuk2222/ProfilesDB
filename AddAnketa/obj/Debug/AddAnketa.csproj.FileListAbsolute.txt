@@ -1,0 +1,34 @@
+c:\users\temp.it-step.001\documents\visual studio 2015\Projects\AddAnketa\AddAnketa\bin\Debug\AddAnketa.exe.config
+c:\users\temp.it-step.001\documents\visual studio 2015\Projects\AddAnketa\AddAnketa\bin\Debug\AddAnketa.exe
+c:\users\temp.it-step.001\documents\visual studio 2015\Projects\AddAnketa\AddAnketa\bin\Debug\AddAnketa.pdb
+c:\users\temp.it-step.001\documents\visual studio 2015\Projects\AddAnketa\AddAnketa\obj\Debug\AddAnketa.csprojResolveAssemblyReference.cache
+c:\users\temp.it-step.001\documents\visual studio 2015\Projects\AddAnketa\AddAnketa\obj\Debug\AddAnketa.Form1.resources
+c:\users\temp.it-step.001\documents\visual studio 2015\Projects\AddAnketa\AddAnketa\obj\Debug\AddAnketa.Properties.Resources.resources
+c:\users\temp.it-step.001\documents\visual studio 2015\Projects\AddAnketa\AddAnketa\obj\Debug\AddAnketa.csproj.GenerateResource.Cache
+c:\users\temp.it-step.001\documents\visual studio 2015\Projects\AddAnketa\AddAnketa\obj\Debug\AddAnketa.exe
+c:\users\temp.it-step.001\documents\visual studio 2015\Projects\AddAnketa\AddAnketa\obj\Debug\AddAnketa.pdb
+c:\users\temp.it-step.001\documents\visual studio 2015\Projects\AddAnketa\AddAnketa\obj\Debug\AddAnketa.AddForm.resources
+c:\users\temp.it-step.001\documents\visual studio 2015\Projects\AddAnketa\AddAnketa\obj\Debug\AddAnketa.SearchForm.resources
+C:\Users\DELL\Google Диск\шаг\development\C# .Net\windows forms\AddAnketa\AddAnketa\bin\Debug\AddAnketa.exe.config
+C:\Users\DELL\Google Диск\шаг\development\C# .Net\windows forms\AddAnketa\AddAnketa\obj\Debug\AddAnketa.exe
+C:\Users\DELL\Google Диск\шаг\development\C# .Net\windows forms\AddAnketa\AddAnketa\obj\Debug\AddAnketa.pdb
+C:\Users\DELL\Google Диск\шаг\development\C# .Net\windows forms\AddAnketa\AddAnketa\bin\Debug\AddAnketa.exe
+C:\Users\DELL\Google Диск\шаг\development\C# .Net\windows forms\AddAnketa\AddAnketa\bin\Debug\AddAnketa.pdb
+C:\Users\DELL\Google Диск\шаг\development\C# .Net\windows forms\AddAnketa\AddAnketa\obj\Debug\AddAnketa.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Google Диск\шаг\development\C# .Net\windows forms\AddAnketa\AddAnketa\obj\Debug\AddAnketa.AddForm.resources
+C:\Users\DELL\Google Диск\шаг\development\C# .Net\windows forms\AddAnketa\AddAnketa\obj\Debug\AddAnketa.Form1.resources
+C:\Users\DELL\Google Диск\шаг\development\C# .Net\windows forms\AddAnketa\AddAnketa\obj\Debug\AddAnketa.Properties.Resources.resources
+C:\Users\DELL\Google Диск\шаг\development\C# .Net\windows forms\AddAnketa\AddAnketa\obj\Debug\AddAnketa.SearchForm.resources
+C:\Users\DELL\Google Диск\шаг\development\C# .Net\windows forms\AddAnketa\AddAnketa\obj\Debug\AddAnketa.csproj.GenerateResource.Cache
+C:\Users\TEMP.IT-STEP.001\Downloads\AddAnketa-20170425T064407Z-001\AddAnketa\AddAnketa\bin\Debug\AddAnketa.exe.config
+C:\Users\TEMP.IT-STEP.001\Downloads\AddAnketa-20170425T064407Z-001\AddAnketa\AddAnketa\obj\Debug\AddAnketa.exe
+C:\Users\TEMP.IT-STEP.001\Downloads\AddAnketa-20170425T064407Z-001\AddAnketa\AddAnketa\obj\Debug\AddAnketa.pdb
+C:\Users\TEMP.IT-STEP.001\Downloads\AddAnketa-20170425T064407Z-001\AddAnketa\AddAnketa\bin\Debug\AddAnketa.exe
+C:\Users\TEMP.IT-STEP.001\Downloads\AddAnketa-20170425T064407Z-001\AddAnketa\AddAnketa\bin\Debug\AddAnketa.pdb
+C:\Users\TEMP.IT-STEP.001\Downloads\AddAnketa-20170425T064407Z-001\AddAnketa\AddAnketa\obj\Debug\AddAnketa.csprojResolveAssemblyReference.cache
+C:\Users\TEMP.IT-STEP.001\Downloads\AddAnketa-20170425T064407Z-001\AddAnketa\AddAnketa\obj\Debug\AddAnketa.AddForm.resources
+C:\Users\TEMP.IT-STEP.001\Downloads\AddAnketa-20170425T064407Z-001\AddAnketa\AddAnketa\obj\Debug\AddAnketa.Form1.resources
+C:\Users\TEMP.IT-STEP.001\Downloads\AddAnketa-20170425T064407Z-001\AddAnketa\AddAnketa\obj\Debug\AddAnketa.Properties.Resources.resources
+C:\Users\TEMP.IT-STEP.001\Downloads\AddAnketa-20170425T064407Z-001\AddAnketa\AddAnketa\obj\Debug\AddAnketa.SearchForm.resources
+C:\Users\TEMP.IT-STEP.001\Downloads\AddAnketa-20170425T064407Z-001\AddAnketa\AddAnketa\obj\Debug\AddAnketa.csproj.GenerateResource.Cache
+C:\Users\DELL\Google Диск\шаг\development\C# .Net\windows forms\AddAnketa\AddAnketa\obj\Debug\AddAnketa.ExportForm.resources
